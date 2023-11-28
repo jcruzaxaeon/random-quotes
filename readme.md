@@ -24,7 +24,7 @@
 - GreenGeeks Hosting
 
 ## Data
-- `note`: Merge to axaeon; Darken colors; Shrink quote font-size; Test Excel data-source;
+- `note`: Darken random background color.  Shrink font size.  Test Excel spreadsheet data source.
 - `detail`: git submodule for `axaeon.com`
 - `code`: 1t
 - `description`: Show random quotes from an array of 'quote' objects
@@ -73,7 +73,6 @@
 
 
 ## Devlog
-- `November 26, 2023`: Commit from greengeeks.net
 - `Month DD, YYYY`
    - Lorem
    	- [ ] Ipsum
