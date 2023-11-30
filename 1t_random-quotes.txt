@@ -1,0 +1,24 @@
+
+
+
+# Random Quotes
+
+## Move to Repo
+/css
+/js
+/land
+index.html
+readme.md
+
+## Clipboard
+```
+https://github.com/jcruzaxaeon/random-quotes.git
+C:\core\srv\axaeon\app\unit\1t
+cd /mnt/c/core/srv/axaeon/app/unit/1t
+```
+
+## Local .gitignore
+.gitignore
+1t_goto-ws.lnk
+1t_random-quotes.txt
+
